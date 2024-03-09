@@ -1,6 +1,6 @@
 # Electricity Consumption Prediction using LSTM
 
-![Electricity Consumption](https://github.com/your_username/your_repository_name/blob/main/electricity_consumption_image.png)
+![Electricity Consumption](https://github.com/ghostridersahil/ElectricityConsumption_using_LSTM/blob/master/energies-13-02672-ag.jpg)
 
 ## Introduction
 
